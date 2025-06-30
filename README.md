@@ -16,7 +16,7 @@ All feature vectors are padded to a uniform length to ensure consistent input sh
 A 1D Convolutional Neural Network (CNN) is used to learn emotion representations from the MFCCs and perform classification.
 
 📁 Repository Contents
-mars_project.ipynb: Main Jupyter notebook with data preprocessing, model training, and evaluation.
+code_file.ipynb: Main Jupyter notebook with data preprocessing, model training, and evaluation.
 
 model.h5: Trained model saved at the checkpoint with highest validation accuracy.
 
