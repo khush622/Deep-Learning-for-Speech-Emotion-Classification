@@ -20,4 +20,4 @@ code_file.ipynb: Main Jupyter notebook with data preprocessing, model training, 
 
 model.h5: Trained model saved at the checkpoint with highest validation accuracy.
 
-predict_emotion.py: Script to test the model by simply providing a directory path containing audio files.
+testing.py: Script to test the model by simply providing a directory path containing audio files.
